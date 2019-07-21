@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAppNegaraAT</string>
+    <string name="list">Info Negara</string>
+    <string name="grid">Bendera Negara</string>
+</resources>
